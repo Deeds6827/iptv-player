@@ -1,5 +1,5 @@
 {
-    "version": "1.3.0",
-    "downloadUrl": "",
-    "releaseNotes": "UI overhaul, channel navigation in player, all live channels loaded"
+    "version": "1.4.0",
+    "downloadUrl": "https://expo.dev/artifacts/eas/oEibhGAK9DNLCTXKDyCqz8.apk",
+    "releaseNotes": "EPG Guide, Parental Controls, Channel Manager, Multi-Screen View"
 }
