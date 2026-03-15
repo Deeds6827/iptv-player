@@ -1,5 +1,5 @@
 {
-    "version": "1.4.0",
-    "downloadUrl": "https://expo.dev/artifacts/eas/oEibhGAK9DNLCTXKDyCqz8.apk",
-    "releaseNotes": "EPG Guide, Parental Controls, Channel Manager, Multi-Screen View"
+    "version": "1.4.1",
+    "downloadUrl": "https://expo.dev/artifacts/eas/oiVNfN5uGmgpebQrnMz6mo.apk",
+    "releaseNotes": "Fixed playlist loading, pre-configured Diamond playlist"
 }
