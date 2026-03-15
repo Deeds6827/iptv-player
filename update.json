@@ -1,5 +1,5 @@
 {
-    "version": "1.4.1",
-    "downloadUrl": "https://expo.dev/artifacts/eas/oiVNfN5uGmgpebQrnMz6mo.apk",
-    "releaseNotes": "Fixed playlist loading, pre-configured Diamond playlist"
+    "version": "1.4.2",
+    "downloadUrl": "https://expo.dev/artifacts/eas/uQcNdmks96ZKBmRVYxxrqJ.apk",
+    "releaseNotes": "Lazy-load channels per category for large playlists"
 }
